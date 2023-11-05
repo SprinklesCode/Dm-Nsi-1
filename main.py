@@ -12,6 +12,7 @@ def tema_le_jeu():
     white_pick = 0
     black_pick = 0
     green_pick = 0
+    #initialisation de la variable qui va compter le nombre de coups dans la partie
     count = 0
 
     #ma boucle de jeu qui dit que tant qu'on a pas récuperer 13 boule noir on continue (et on compte chaque boule verte comme une boule noire egalement)
