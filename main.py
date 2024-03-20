@@ -78,6 +78,6 @@ def main():
     #on print le résultat
     print(f"Nombre moyen de coups pour gagner en {N} parties : {average_moves:.2f}")
 
-#fonction conventionnel de début de script qui nous redirige vers la fonction main()
+#fonction conventionnelle de début de script qui nous redirige vers la fonction main()
 if __name__ == "__main__":
     main()
